@@ -231,3 +231,6 @@ Resource optimization
 Revenue diversification
 
 By leveraging Power BI insights and implementing the recommended strategies, the healthcare provider can significantly improve operational efficiency, financial stability, and patient experience.
+
+## Chisom Precious
+Data Analyst | Power BI Developer | Business Analyst | Aspiring Data Scientist.
